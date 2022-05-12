@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Joey 👋
+
+🙃️ Gopher🚀.
+
+🏫 Master at 🇨🇳 [CSU](https://en.csu.edu.cn/), major in Computer Science.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph516)]()
 
 <!--
 **Joseph516/Joseph516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
